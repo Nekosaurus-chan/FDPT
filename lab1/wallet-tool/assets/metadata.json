@@ -1,0 +1,17 @@
+{
+  "name": "Neko Token",
+  "symbol": "NEKO",
+  "description": "Test SPL token for lab1 on local validator.",
+  "image": "https://placekitten.com/400/400",
+  "external_url": "http://127.0.0.1:8000/",
+  "attributes": [
+    { "trait_type": "Project", "value": "lab1" },
+    { "trait_type": "Network", "value": "localhost" }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://placekitten.com/400/400", "type": "image/jpeg" }
+    ]
+  }
+}
